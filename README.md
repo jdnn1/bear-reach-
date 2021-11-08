@@ -1,4 +1,4 @@
-local discordinv = "https://discord.gg/phantomhub"
+local discordinv = "https://discord.gg/NVFdMF3Rj3"
 local d
 local active = true
 local trueActive = true
